@@ -13,6 +13,6 @@ links.forEach(function(link){
             location.href = "./pizza";
         },600)
 
-        
+        return true;
     })
 })
